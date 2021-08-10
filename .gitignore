@@ -1,0 +1,5 @@
+vendor
+credentials.json
+credentials-uat.json
+token.json
+composer.lock
