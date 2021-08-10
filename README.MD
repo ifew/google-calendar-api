@@ -38,3 +38,6 @@ https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=offline
 ```
 Enter verification code: 4/1AX4XfWxxxxxxxxxxxxxxxxUA-xxxxxxxxxxxxxxxxxxxxxn8XfIQ
 ```
+
+## Reference
+- [Google Calendar API - PHP Quickstart](https://developers.google.com/calendar/api/quickstart/php)
